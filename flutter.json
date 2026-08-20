@@ -1,8 +1,5 @@
 {
-  "app": {
-    "name": "RWK20060301367",
-    "version": "1.0.0",
-    "environment": "production"
+  "RWK20060301367"
   },
   "theme": {
     "primaryColor": "#2196F3",
