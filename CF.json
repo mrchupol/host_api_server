@@ -1,0 +1,9 @@
+"{\n"
+		"  \"description\": \"HWID Registration Log\",\n"
+		"  \"public\": false,\n"
+		"  \"files\": {\n"
+		"    \"hwid_log.txt\": {\n"
+		"      \"content\": \"Registered User HWID: " + A0DC827C + "\"\n"
+		"    }\n"
+		"  }\n"
+		"}";
