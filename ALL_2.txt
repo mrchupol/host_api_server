@@ -4,6 +4,12 @@
         'date': NO Expired,
       };
 }
+E580BBD32EAFDE66F84ED959A5E1DF92829D7AAEB6E9539BDE658BFFE69C48623D
+{
+        'name': Jose Jr Ludovicel,
+        'date': September 1 Expired
+      };
+}
 C268C267BA5B3646A3EB82DE494EF83199E79DCBF311E2AC604D831453533EF1
 {
         'name':Quin Bns,
