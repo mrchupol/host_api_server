@@ -4,6 +4,12 @@
         'date': Expired September 22 2026,
       };
 }
+4A62749B6D8175C65050F13AA300936689CB5F56B24987DCE6529339B5727311
+{
+        'name': Client of Joy Morato Saligumba,
+        'date': September 6  Expired,
+      };
+}
 C268C267BA5B3646A3EB82DE494EF83199E79DCBF311E2AC604D831453533EF1
 {
         'name':Quin Bns,
@@ -44,12 +50,6 @@ D0CA2B0C51A5AC34129513DA01B47A4D73419269ED9F81C7BCD4CE4FA8C99E69
 {
         'name': Client of Joy Morato Saligumba,
         'date':September 4 2026 Expired,
-      };
-}
-EAA3779EA17E7EC41FB1B36E02CE50021315A01C2B9A29910B22E842E21F0637
-{
-        'name': Taniel Deluna,
-        'date': Aug 28 2026,
       };
 }
 3E05650B4BB180F147359B2C6F6421AB5DBCDFC908A9443AF65E0363BA8FA1F3
