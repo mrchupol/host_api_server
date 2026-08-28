@@ -4,6 +4,12 @@
         'date': NO Expired,
       };
 }
+8195FF99230B7A320F3BC7BDEA1B65ED96E572F522690671D5D94697B3E169DA
+{
+        'name': Raymundo Chardine,
+        'date': September 6 Expired
+      };
+}
 E580BBD32EAFDE66F84ED959A5E1DF92829D7AAEB6E9539BDE658BFFE69C48623D
 {
         'name': Jose Jr Ludovicel,
