@@ -4,6 +4,12 @@
         'date': Expired September 22 2026,
       };
 }
+E580BBD32EAFDE66F84ED959A5E1DF92829D7AAEB6E9539BDE658BFFE69C48623D
+{
+        'name': Jose Jr Ludovicel,
+        'date': September 1 Expired
+      };
+}
 4A62749B6D8175C65050F13AA300936689CB5F56B24987DCE6529339B5727311
 {
         'name': Client of Joy Morato Saligumba,
