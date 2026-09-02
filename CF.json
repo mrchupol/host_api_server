@@ -1,10 +1,1 @@
 
-{
-  "description": "App HWID Registration Log",
-  "public": false,
-  "files": {
-    "CF.json": {
-      "content": "{\"device_hwid\":\"612B445040333B57E5A416601833D3E7",\"status\":\"active\"}"
-    }
-  }
-}
